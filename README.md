@@ -23,8 +23,17 @@ The agent takes a **user-specified research topic** and performs the following s
 ## 📥 Example Output
 Topic: "Reinforcement Learning for Robotics"
 
+<<<<<<< HEAD
+=======
+Topic: "Reinforcement Learning for Robotics"
+
+>>>>>>> 27e7cba (all updated code)
 Title: Deep Reinforcement Learning for Robotic Manipulation Summary: This paper explores... Link: https://arxiv.org/abs/xxxx.xxxxx
 
 Title: Policy Gradient Methods for Real-Time Control Summary: ... Link: https://arxiv.org/abs/yyyy.yyyyy
 
 ...
+<<<<<<< HEAD
+=======
+
+>>>>>>> 27e7cba (all updated code)

@@ -16,24 +16,22 @@ The agent takes a **user-specified research topic** and performs the following s
 
 ## 🔧 Technologies Used
 
-- **AutoGen** – Agent orchestration framework for agent-based workflows
-- **GROQ API** – LLM for intelligent analysis and summarization
-- **ArXiv API** – For fetching open-access academic papers
+- **AutoGen** – Agent orchestration framework for agent-based workflows  
+- **GROQ API** – LLM for intelligent analysis and summarization  
+- **ArXiv API** – For fetching open-access academic papers  
 
 ## 📥 Example Output
-Topic: "Reinforcement Learning for Robotics"
 
-<<<<<<< HEAD
-=======
-Topic: "Reinforcement Learning for Robotics"
+**Topic**: _"Large Language Models for Code Generation"_
 
->>>>>>> 27e7cba (all updated code)
-Title: Deep Reinforcement Learning for Robotic Manipulation Summary: This paper explores... Link: https://arxiv.org/abs/xxxx.xxxxx
+### 🔎 Paper 1
 
-Title: Policy Gradient Methods for Real-Time Control Summary: ... Link: https://arxiv.org/abs/yyyy.yyyyy
+- **📌 Title**: "CodeGen: An Open Multilingual Code Generation Model"
+- **📝 Summary**: This paper introduces CodeGen, a family of open large language models trained for code generation in multiple programming languages. The model achieves high performance on benchmark datasets, and the authors provide insights into training strategies and multilingual capabilities.
+- **🔗 Link**: [https://arxiv.org/abs/2203.13474](https://arxiv.org/abs/2203.13474)
 
-...
-<<<<<<< HEAD
-=======
+> 💬 **LLM Analysis**: CodeGen demonstrates that LLMs can generalize across languages and tasks. Its training on both natural and programming languages highlights the importance of diverse datasets. It also raises questions about reproducibility and code safety in production systems.
 
->>>>>>> 27e7cba (all updated code)
+---
+
+*More examples will be shown in the actual run output of the agent.*
